@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: retail
+    database: retail-sales-428809
+
+    tables:
+      - name: raw_invoices
+      - name: country
